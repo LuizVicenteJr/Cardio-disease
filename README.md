@@ -5,6 +5,8 @@ O recall é particularmente importante no contexto de detecção de doenças car
 ## Instalação
 1. Clone este repositório: `git clone https://github.com/LuizVicenteJr/Cardio-disease.git`.
 2. Instale as dependências: `pip install -r requirements.txt`.
+3. O último ciclo trabalho neste projeto consta em(https://github.com/LuizVicenteJr/Cardio-disease/blob/main/cardio_diseases_cycle5.ipynb) fique a vontade para melhorar o projeto com novos ciclos!
+
 
 # **1.0 DATA DESCRIPTION**
 Nesta etapa, os dados são carregados em um DataFrame do Pandas. Os dados são pré-processados para remover valores ausentes e duplicados. Também é criada uma coluna adicional para representar a idade em anos .
