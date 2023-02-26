@@ -4,7 +4,8 @@ O recall é particularmente importante no contexto de detecção de doenças car
  
 ## Instalação
 1. Clone este repositório: `git clone https://github.com/LuizVicenteJr/Cardio-disease.git`.
-2. O último ciclo trabalho neste projeto consta em(https://github.com/LuizVicenteJr/Cardio-disease/blob/main/cardio_diseases_cycle5.ipynb) fique a vontade para melhorar o projeto com novos ciclos!
+2. As bibliotecas utilizadas estão no arquivo : requeriments.txt
+3. O último ciclo trabalho neste projeto consta em(https://github.com/LuizVicenteJr/Cardio-disease/blob/main/cardio_diseases_cycle5.ipynb) fique a vontade para melhorar o projeto com novos ciclos!
 
 
 # **1.0 DATA DESCRIPTION**
